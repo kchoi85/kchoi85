@@ -7,5 +7,5 @@
 📚 In my free time, you can find me studying about Artifical Intelligence, Systems Design, and Cloud Architecture  
 
 ### 📫 Let's Get in Touch
-💼 Connect with me on <a href="https://www.linkedin.com/in/kchoi85/">LinkedIn!   
+💼 Connect with me on <a href="https://www.linkedin.com/in/kchoi85/">LinkedIn!</a>     
 ✉️ Send me an <a href="mailto:davidchoi0304@gmail.com">email!
