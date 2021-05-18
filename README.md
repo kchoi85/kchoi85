@@ -1,7 +1,5 @@
 ### Hi there 👋
-
 ![version :18.05.2021](https://img.shields.io/badge/version-18.05.2021-informational) &nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/kchoi85?label=follow&style=social)](https://github.com/kchoi85)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 - 🔭 I’m currently working on ...
