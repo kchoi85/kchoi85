@@ -2,7 +2,7 @@
 ![version :18.05.2021](https://img.shields.io/badge/version-18.05.2021-informational) &nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-👨🏻‍💻  About Me
+### 👨🏻‍💻  About Me
 💡   I'm a software developer and researcher at Toronto-Dominion (TD) Bank in Downtown Toronto!
 
 - 🔭 I’m currently working on ...
