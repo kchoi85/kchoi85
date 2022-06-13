@@ -1,5 +1,5 @@
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">Hi, I am David Choi 👨‍💻
+# 👋 Hi, I am David Choi 👨‍💻
 ### 🎉 About me
 👍 I am an experienced **backend developer** (web & infrastructure) at **TD Bank** in Downtown Toronto!  
 🌎 I like to participate in various hackathons and collaborate with developers around the world  
